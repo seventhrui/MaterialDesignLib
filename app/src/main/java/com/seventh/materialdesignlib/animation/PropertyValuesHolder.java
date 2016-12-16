@@ -23,9 +23,9 @@ import java.lang.reflect.Method;
 import java.util.HashMap;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
-import com.material.util.FloatProperty;
-import com.material.util.IntProperty;
-import com.material.util.Property;
+import com.seventh.materialdesignlib.util.FloatProperty;
+import com.seventh.materialdesignlib.util.IntProperty;
+import com.seventh.materialdesignlib.util.Property;
 
 /**
  * This class holds information about a property and the values that that property

@@ -21,8 +21,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Set;
 
-import com.material.animation.Animator;
-import com.material.animation.ValueAnimator;
+import com.seventh.materialdesignlib.animation.Animator;
+import com.seventh.materialdesignlib.animation.ValueAnimator;
 
 import android.view.View;
 import android.view.animation.Interpolator;

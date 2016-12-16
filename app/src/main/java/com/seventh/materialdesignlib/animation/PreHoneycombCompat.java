@@ -2,10 +2,10 @@ package com.seventh.materialdesignlib.animation;
 
 import android.view.View;
 
-import com.material.util.FloatProperty;
-import com.material.util.IntProperty;
-import com.material.util.Property;
-import com.material.view.animation.AnimatorProxy;
+import com.seventh.materialdesignlib.util.FloatProperty;
+import com.seventh.materialdesignlib.util.IntProperty;
+import com.seventh.materialdesignlib.util.Property;
+import com.seventh.materialdesignlib.view.animation.AnimatorProxy;
 
 final class PreHoneycombCompat {
     static Property<View, Float> ALPHA = new FloatProperty<View>("alpha") {

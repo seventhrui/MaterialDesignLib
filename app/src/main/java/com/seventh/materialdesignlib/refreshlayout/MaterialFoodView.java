@@ -1,6 +1,6 @@
 package com.seventh.materialdesignlib.refreshlayout;
 
-import com.material.util.Util;
+import com.seventh.materialdesignlib.util.Util;
 
 import android.content.Context;
 import android.support.v4.view.ViewCompat;

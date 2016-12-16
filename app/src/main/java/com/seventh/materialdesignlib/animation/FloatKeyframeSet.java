@@ -20,7 +20,7 @@ import android.view.animation.Interpolator;
 
 import java.util.ArrayList;
 
-import com.material.animation.Keyframe.FloatKeyframe;
+import com.seventh.materialdesignlib.animation.Keyframe.FloatKeyframe;
 
 /**
  * This class holds a collection of FloatKeyframe objects and is called by ValueAnimator to calculate

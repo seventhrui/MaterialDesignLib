@@ -23,8 +23,8 @@ import java.util.Map;
 import android.util.Log;
 import android.view.View;
 
-import com.material.util.Property;
-import com.material.view.animation.AnimatorProxy;
+import com.seventh.materialdesignlib.util.Property;
+import com.seventh.materialdesignlib.view.animation.AnimatorProxy;
 
 /**
  * This subclass of {@link ValueAnimator} provides support for animating properties on target objects.

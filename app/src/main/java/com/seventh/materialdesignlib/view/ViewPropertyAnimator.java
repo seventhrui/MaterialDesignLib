@@ -18,7 +18,7 @@ package com.seventh.materialdesignlib.view;
 
 import java.util.WeakHashMap;
 
-import com.material.animation.Animator;
+import com.seventh.materialdesignlib.animation.Animator;
 
 import android.os.Build;
 import android.view.View;

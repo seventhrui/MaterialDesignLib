@@ -23,9 +23,9 @@ import java.util.Set;
 import android.view.View;
 import android.view.animation.Interpolator;
 
-import com.material.animation.Animator;
-import com.material.animation.ValueAnimator;
-import com.material.view.animation.AnimatorProxy;
+import com.seventh.materialdesignlib.animation.Animator;
+import com.seventh.materialdesignlib.animation.ValueAnimator;
+import com.seventh.materialdesignlib.view.animation.AnimatorProxy;
 
 class ViewPropertyAnimatorPreHC extends ViewPropertyAnimator {
     /**

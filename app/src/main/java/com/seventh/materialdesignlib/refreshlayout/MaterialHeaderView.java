@@ -1,11 +1,10 @@
 package com.seventh.materialdesignlib.refreshlayout;
 
-import com.material.util.Util;
+import com.seventh.materialdesignlib.util.Util;
 
 import android.content.Context;
 import android.support.v4.view.ViewCompat;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.view.Gravity;
 import android.widget.FrameLayout;
 

@@ -19,9 +19,9 @@ package com.seventh.materialdesignlib.animation;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-import com.material.animation.Keyframe.FloatKeyframe;
-import com.material.animation.Keyframe.IntKeyframe;
-import com.material.animation.Keyframe.ObjectKeyframe;
+import com.seventh.materialdesignlib.animation.Keyframe.FloatKeyframe;
+import com.seventh.materialdesignlib.animation.Keyframe.IntKeyframe;
+import com.seventh.materialdesignlib.animation.Keyframe.ObjectKeyframe;
 
 import android.view.animation.Interpolator;
 

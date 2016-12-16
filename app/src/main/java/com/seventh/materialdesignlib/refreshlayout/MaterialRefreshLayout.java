@@ -1,7 +1,7 @@
 package com.seventh.materialdesignlib.refreshlayout;
 
-import com.material.util.Util;
-import com.materiallib.R;
+import com.seventh.materialdesignlib.util.Util;
+import com.seventh.materialdesignlib.R;
 
 import android.content.Context;
 import android.content.res.TypedArray;

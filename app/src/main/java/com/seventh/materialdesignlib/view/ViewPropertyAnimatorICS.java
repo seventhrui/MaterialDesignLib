@@ -2,7 +2,7 @@ package com.seventh.materialdesignlib.view;
 
 import java.lang.ref.WeakReference;
 
-import com.material.animation.Animator.AnimatorListener;
+import com.seventh.materialdesignlib.animation.Animator.AnimatorListener;
 
 import android.view.View;
 import android.view.animation.Interpolator;
