@@ -19,7 +19,7 @@ repositories {
 >Step 2. Add the dependency
 ```xml
 dependencies {
-    compile 'com.github.seventhrui:MaterialDesignLib:1.0'
+    compile 'com.github.seventhrui:MaterialDesignLib:1.0.6'
     //or
     //compile 'com.github.seventhrui:MaterialDesignLib:+'
 >}
